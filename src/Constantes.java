@@ -1,4 +1,4 @@
-public class constants {
+public class Constantes {
 
     // Configuración visual
     public static final int DEFAULT_COLUMN_NUMBER = 5;
